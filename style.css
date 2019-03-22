@@ -1,0 +1,14 @@
+body {
+  box-sizing: border-box;
+  max-width: 90%;
+  margin: auto;
+  
+}
+
+img {
+  float: left;
+}
+
+h3 {
+  display: inline-block;
+}
