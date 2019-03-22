@@ -69,14 +69,15 @@ img.main-img {
 
 .img-header {
   padding: 20px 0 0;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   float: left;
   width: 100%;
 }
 
 .img-header-right {
+  position: relative;
+  top: -40px;
   float: right;
-  border: 1px solid black;
 }
 .img-header-right p, .img-header {
   display: inline;
@@ -100,7 +101,6 @@ img.main-img {
   font-family: "Oswald";
   color: #333;
   float: left;
-  border: 1px solid black;
 }
 
 .img-header p {
