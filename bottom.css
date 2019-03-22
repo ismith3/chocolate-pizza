@@ -20,3 +20,16 @@ ul >li {
 .line-through {
   text-decoration: line-through;
 }
+
+ul >li:checked {
+  margin-left: 25px;
+} 
+
+ input[type="checkbox"]:focus  {
+  color: #ccc;
+  font-style: italic;
+} 
+input[type=checkbox]:checked  {
+  color: #f00;
+  font-style: normal;
+} 
