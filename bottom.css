@@ -3,12 +3,7 @@ body {
   max-width: 90%;
   margin: 0 200px;
 }
-body {
-  background-color :#f5f5f5;
-  width: 600px;
-  margin: 0 auto;
-  padding: 0;
-}
+
 
 .list {
   color: #555;
@@ -43,14 +38,7 @@ body {
   margin-left: 40px;
 }
 
-.left {
-  float: left;
-  width: 40%;
-}
-.right {
-  float: right;
-  width: 40%;
-}
+
 /* 
 .paper {
   background-image: url('assets/list-bg.png');
