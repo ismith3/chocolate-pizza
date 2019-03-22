@@ -10,7 +10,10 @@ body {
     height:300px;
     background-repeat: no-repeat;
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 150%;
+
 }
 
 ul >li {
@@ -25,9 +28,8 @@ ul >li:checked {
   margin-left: 25px;
 } 
 
- input[type="checkbox"]:focus  {
-  color: #ccc;
-  font-style: italic;
+.checked > input[type="checkbox"]:focus  {
+  background-color: #a77e2d !
 } 
 input[type=checkbox]:checked  {
   color: #f00;
