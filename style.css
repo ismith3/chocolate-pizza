@@ -9,6 +9,22 @@ img {
   float: left;
 }
 
-h3 {
+.header.left{
   display: inline-block;
+  padding: 0;
+}
+
+.header.left h3, .header.left p {
+  padding: 0;
+  margin: 0;
+  width: 400px;
+}
+
+.header.right {
+  float: right;
+}
+
+header {
+  padding: 40px 0;
+  border: 1px solid black;
 }
