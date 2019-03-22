@@ -43,19 +43,13 @@ body {
   margin-left: 40px;
 }
 
-.left {
-  float: left;
-  width: 40%;
-}
-.right {
-  float: right;
-  width: 40%;
-}
-/* 
+
 .paper {
   background-image: url('assets/list-bg.png');
-    width:xxpx;
-    height:xxpx;
-
+    width:100%;
+    height:500px;
+    background-repeat: no-repeat;
 }
+
+
 
