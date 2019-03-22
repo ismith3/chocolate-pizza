@@ -110,3 +110,28 @@ img.main-img {
   clear: left;
   width: 200px;
 }
+
+footer {
+  padding: 40px 0 0;
+  text-align: center;
+}
+
+footer p {
+  padding: 20px 0;
+  color: #666;
+}
+
+.line {
+  border-top: 1px solid #999;
+  width: 45%;
+  margin: 15px 0 0;
+}
+.line-right {
+  float: right;
+}
+.line-left {
+  float: left;
+}
+.center {
+  text-align: center;
+}
